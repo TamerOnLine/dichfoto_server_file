@@ -167,3 +167,4 @@ Thumbs.db
 # Generated env info 
 env-info.txt
 
+secrets/*.json
