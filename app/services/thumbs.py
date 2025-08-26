@@ -1,0 +1,1 @@
+"""Thumbnails service — TODO."""
